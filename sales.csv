@@ -1,0 +1,15 @@
+order_id,date,product,category,quantity,unit_price
+1001,2025-01-05,Wireless Mouse,Accessories,2,15.99
+1001,2025-01-05,USB-C Cable,Accessories,3,7.50
+1002,2025-01-07,Laptop Stand,Office,1,32.00
+1003,2025-01-09,Mechanical Keyboard,Accessories,1,89.90
+1004,2025-01-12,Wireless Mouse,Accessories,1,15.99
+1005,2025-01-15,27-inch Monitor,Electronics,2,189.00
+1006,2025-01-18,USB-C Cable,Accessories,5,7.50
+1006,2025-01-18,Laptop Stand,Office,2,32.00
+1007,2025-01-21,Webcam HD,Electronics,1,54.25
+1008,2025-01-24,Mechanical Keyboard,Accessories,2,89.90
+1009,2025-01-27,27-inch Monitor,Electronics,1,189.00
+1010,2025-01-30,Desk Lamp,Office,4,21.40
+1010,2025-01-30,Webcam HD,Electronics,2,54.25
+1011,2025-02-02,Wireless Mouse,Accessories,3,15.99
